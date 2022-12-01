@@ -210,4 +210,4 @@ open ~/.gitconfig
 java -version
 cd Documents/vzclients
 mvn clean
-mvn validate
+mvn validate `
